@@ -56,8 +56,8 @@ add chain=prerouting src-address-list=IP_Wajib_Blokir action=drop comment="DROP 
 
 Proyek ini dikembangkan dan dikelola secara mandiri demi keamanan komunitas internet di Indonesia. Jika proyek ini berhasil mengamankan server atau router perusahaan Anda dari serangan siber, Anda dapat memberikan dukungan via:
 
-👉 **Trakteer:(https://trakteer.id/yongodingyongopi/gift)** 
-👉 **GitHub Sponsors:** Aktif di profil GitHub ini.
+* 👉 **Trakteer:(https://trakteer.id/yongodingyongopi/gift)** 
+* 👉 **GitHub Sponsors:** Aktif di profil GitHub ini.
 
 ### 💼 Layanan Konsultasi & Jasa Privat (Kompersil)
 Jika Anda membutuhkan bantuan profesional untuk:
