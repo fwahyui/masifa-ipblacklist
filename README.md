@@ -6,16 +6,16 @@
 
 **masifa-ipblacklist** adalah proyek otomatisasi keamanan siber (*Cybersecurity*) yang dirancang khusus untuk melindungi router **MikroTik** dari berbagai serangan siber global seperti Bruteforce, Port Scanning, Web Attack, Malicious Bot, dan Spam.
 
-Data IP dalam repositori ini diekstraksi secara *real-time* langsung dari database firewall MikroTik produksi yang terintegrasi dengan 3 intelijen ancaman dunia: **AbuseIPDB (Confidence Level ~100%)**, **Spamhaus DROP List**, dan **IPSum Level**.
+Data IP dalam repositori ini diekstraksi secara *real-time* langsung dari database firewall MikroTik produksi yang terintegrasi dengan 3 intelijen ancaman dunia: **AbuseIPDB**, **Spamhaus**, dan **IPSum**.
 
 ---
 
 ## 🚀 Fitur Unggulan
 
 * **Multi-Sumber Intelijen:** Gabungan otomatis dari ancaman paling aktif di internet.
-* **Proteksi Jalur Tol (Bypass CDN):** Seluruh IP resmi **Cloudflare (IPv4 & IPv6)** telah disaring secara matematis menggunakan `grepcidr` agar website Anda terhindar dari *False Positive* (Error 521).
+* **Proteksi Jalur Tol (Bypass CDN):** Seluruh IP resmi **Cloudflare (IPv4 & IPv6)** telah disaring secara matematis agar website Anda terhindar dari *False Positive* (Error 521).
 * **Performa Tinggi (Hemat CPU):** Dioptimalkan untuk langsung diaplikasikan pada **Firewall Raw Prerouting** MikroTik.
-* **Pembaruan Berkala:** Sinkronisasi otomatis setiap **6 jam sekali** via Linux aaPanel server.
+* **Pembaruan Berkala:** Sinkronisasi otomatis setiap **24 jam sekali**.
 
 ---
 
