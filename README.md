@@ -65,7 +65,7 @@ Jika Anda membutuhkan bantuan profesional untuk:
 * Hardening keamanan router MikroTik perusahaan/ISP.
 * Konfigurasi jaringan tingkat lanjut (*Routing*, BGP, QoS Traffic Shaping).
 
-Silakan hubungi saya secara komersial melalui **Email Bisnis:** `admin@masifa.ocm`
+Silakan hubungi saya secara komersial melalui **Email Bisnis:** `info@masifa.ocm`
 
 ---
 *Dibuat dengan 💻 dan dikelola dengan penuh dedikasi dari Indonesia.*
