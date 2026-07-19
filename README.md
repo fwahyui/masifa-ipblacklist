@@ -23,7 +23,7 @@ Data IP dalam repositori ini diekstraksi secara *real-time* langsung dari databa
 
 Bagi sesama teknisi jaringan atau sysadmin, Anda dapat mengambil daftar IP mentah (*clean text*) yang selalu diperbarui untuk skrip otomatisasi Anda melalui tautan berikut:
 
-👉 **[Download Raw Blocklist](https://githubusercontent.com)**
+👉 **[Download Raw Blocklist](https://raw.githubusercontent.com/fwahyui/masifa-ipblacklist/refs/heads/main/blocklist.txt)**
 
 ---
 
@@ -37,7 +37,7 @@ Buka **New Terminal** di Winbox Anda, lalu buat skrip otomatis untuk mengunduh d
 ```mikrotik
 /system script
 add name=Download_Masifa_Blacklist source={
-    /tool fetch url="https://githubusercontent.com" mode=https dst-path=blocklist.txt
+    /tool fetch url="[https://githubusercontent.com](https://raw.githubusercontent.com/fwahyui/masifa-ipblacklist/refs/heads/main/blocklist.txt)" mode=https dst-path=blocklist.txt
     # Tambahkan logika parsing lokal Anda di sini jika diperlukan
 }
 ```
@@ -65,7 +65,7 @@ Jika Anda membutuhkan bantuan profesional untuk:
 * Hardening keamanan router MikroTik perusahaan/ISP.
 * Konfigurasi jaringan tingkat lanjut (*Routing*, BGP, QoS Traffic Shaping).
 
-Silakan hubungi saya secara komersial melalui **Email Bisnis:** `fitrianwahyuilahi45@gmail.com`
+Silakan hubungi saya secara komersial melalui **Email Bisnis:** `admin@masifa.ocm`
 
 ---
 *Dibuat dengan 💻 dan dikelola dengan penuh dedikasi dari Indonesia.*
