@@ -1,12 +1,12 @@
-# 🛡️ masifa-ipblacklist - Hybrid IP Blacklist for MikroTik CHR
+# 🛡️ masifa-ipblacklist - Hybrid IP Blacklist for MikroTik
 
 [![Automated Sync](https://shields.io)](https://github.com)
 [![MikroTik RouterOS](https://shields.io)](https://mikrotik.com)
 [![License](https://shields.io)](LICENSE)
 
-**masifa-ipblacklist** adalah proyek otomatisasi keamanan siber (*Cybersecurity*) yang dirancang khusus untuk melindungi router **MikroTik CHR (Cloud Hosted Router)** dari berbagai serangan siber global seperti Bruteforce, Port Scanning, Web Attack, Malicious Bot, dan Spam.
+**masifa-ipblacklist** adalah proyek otomatisasi keamanan siber (*Cybersecurity*) yang dirancang khusus untuk melindungi router **MikroTik** dari berbagai serangan siber global seperti Bruteforce, Port Scanning, Web Attack, Malicious Bot, dan Spam.
 
-Data IP dalam repositori ini diekstraksi secara *real-time* langsung dari database firewall MikroTik produksi yang terintegrasi dengan 3 intelijen ancaman dunia: **AbuseIPDB (Confidence Level ~100%)**, **Spamhaus DROP List**, dan **IPSum Level 3**.
+Data IP dalam repositori ini diekstraksi secara *real-time* langsung dari database firewall MikroTik produksi yang terintegrasi dengan 3 intelijen ancaman dunia: **AbuseIPDB (Confidence Level ~100%)**, **Spamhaus DROP List**, dan **IPSum Level**.
 
 ---
 
