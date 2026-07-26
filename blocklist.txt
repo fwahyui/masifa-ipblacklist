@@ -1,4 +1,4 @@
-# Masifa IP Blacklist - Last Updated: 2026-07-26_12:44:14
+# Masifa IP Blacklist - Last Updated: 2026-07-26_18:40:09
 # Diambil langsung dari database MikroTik address-list
 # Sumber: IP_Wajib_Blokir, MSFBAN, dan Port Scan (Duplikasi Otomatis Dibuang)
 # --------------------------------------------------------
@@ -75597,6 +75597,7 @@
 3.133.84.157
 3.134.100.58
 3.134.101.147
+3.134.101.212
 3.134.187.154
 3.134.216.108
 3.134.93.22
